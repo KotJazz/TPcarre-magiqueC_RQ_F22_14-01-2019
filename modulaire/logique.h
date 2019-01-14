@@ -1,5 +1,5 @@
 /*
-logique.h : prototypes des méthodes de vérification des données
+logique.h : prototypes des mÃ©thodes de vÃ©rification des donnÃ©es
 */
 Bool estellevide(tJeton *Jeton,int Sphere[BOUNDARY][BOUNDARY]);
-void corriger(tJeton *);
+extern void corriger(tJeton *);
